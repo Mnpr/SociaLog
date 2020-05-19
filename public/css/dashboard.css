@@ -1,0 +1,42 @@
+
+body {
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #555;
+    background: url(../files/background.png);
+/*    background: #eeeeee;*/
+}
+.add-group{
+    background: #4A4B58;
+    width: 100%;
+    text-shadow: none;
+    color: #ffffff !important;
+    margin-top: 25px;
+    font-weight: bold;
+}
+
+.go-back{
+    background: #4A4B58;
+    width: 100%;
+    text-shadow: none;
+    color: #ffffff !important;
+    margin-top: 25px;
+    font-weight: bold;
+    vertical-align: inherit;
+
+}
+
+.add .content {
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+    padding: 10px 20px 20px;
+}
+
+
+
+
+.add {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border-radius: 4px;
+    color: #444444;
+}
