@@ -1,5 +1,10 @@
 # SociaLog
+
 Social media app with real time chatting, uses Nodejs, Express, MongoDB, SocketIO with all files saved to AWS S3 bucket.
+
+![](./images_docs/login.jpg)
+
+![](./images_docs/profile.jpg)
 
 
 Top features:
@@ -17,6 +22,7 @@ Top features:
 - Be able to add interest, Favourite Music and Movies.
 
 - Get the upto date News from One of the popular news source(The Guardian) 
+
 
 
 ## Instruction
