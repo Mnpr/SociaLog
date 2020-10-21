@@ -69,8 +69,8 @@ container.resolve(function(users, _, admin, home, group, results, privatechat, p
         
         
         require('./passport/passport-local');
-        require('./passport/passport-facebook');
-        require('./passport/passport-google');
+        // require('./passport/passport-facebook');
+        // require('./passport/passport-google');
         
         
         

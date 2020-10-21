@@ -1,4 +1,4 @@
-# Fabbootok
+# SociaLog
 Social media app with real time chatting, uses Nodejs, Express, MongoDB, SocketIO with all files saved to AWS S3 bucket.
 
 
@@ -19,4 +19,20 @@ Top features:
 - Get the upto date News from One of the popular news source(The Guardian) 
 
 
+## Instruction
+
+```
+Run Mongod server:
+
+>> sudo systemctl start mongod
+>> sudo systemctl status mongod
+
+Install Dependencies and run server:
+
+>> npm install
+>> node server
+
+```
+
+## Todo : Migrate FrontEnd to Angular
 
