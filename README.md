@@ -2,7 +2,7 @@
 
 Social media app with real time chatting, uses Nodejs, Express, MongoDB, SocketIO with all files saved to AWS S3 bucket.
 
-![](./images_docs/login.jpg)
+![](./images_docs/signin.jpg)
 
 ![](./images_docs/profile.jpg)
 
